@@ -1,0 +1,10 @@
+Introduction/Business Problem
+
+Problem
+I will start with the following question, will there be any pattern or some 
+condition or combination of factors that define if a car accident only affects 
+the car as such or if the accident is of such severity that it affects the person?
+
+Stakeholders
+From my point of view, finding this finding would be very useful to auto insurers, 
+first aid teams, social security authorities or even the government of the region.

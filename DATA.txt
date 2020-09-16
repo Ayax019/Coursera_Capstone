@@ -1,0 +1,5 @@
+DATA
+
+Among the data that I have available and that also make sense with the problem are: 
+the weather, what was the type of collision, in what type of road was the collision, 
+condition of the ground when the collision occurred, if there is lighting where there was the collision.
